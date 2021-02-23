@@ -17,3 +17,5 @@ a.out
 out/
 /OttheloServer.vcxproj.filters
 /OttheloServer.vcxproj.user
+*.gz
+chisel*
